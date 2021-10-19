@@ -9,3 +9,6 @@ And I believe that I can be guided by my mentors to master the skills I'm passio
 I believe that I'll be selected for amfoss and with the help of mentors I'll make sure that I would learn python and do some projects related to it along with some open-source contributions and I should also manage to get good grades.
 
 ### How would you contribute back to the club?
+I will master my skills and participate in hackathons and achieve grateful things which can uplift the amfoss club.
+
+### Do you have any feedback for the selection process?
