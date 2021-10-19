@@ -12,3 +12,4 @@ I believe that I'll be selected for amfoss and with the help of mentors I'll mak
 I will master my skills and participate in hackathons and achieve grateful things which can uplift the amfoss club.
 
 ### Do you have any feedback for the selection process?
+Its a best way of selection process according to my knowledge which gives an oppurtunity to learn wonderful things through the cs50 course along with it I also learned to google certains errors faced when going through the tasks.
