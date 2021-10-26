@@ -13,3 +13,4 @@ for i in range(T):
         if a % 2 == 0:
             b.append(a)
     print(sum(b))
+    
