@@ -8,4 +8,3 @@ for i in range(T):
     b = (N-1) // 5
     c = (N-1) // 15
     print(3*sum(a) + 5*sum(b) - 15*sum(c))
-    #python3 solution
