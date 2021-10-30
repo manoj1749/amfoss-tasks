@@ -4,4 +4,4 @@ Using "cat file1.txt file2.txt file3.txt > file4.txt" I had combined and files a
 I had moved the files from one directory to another.
 Using "rm -r <name of directory or file>" I had deleted the files and directories.
 
-![]task-02/SCREENSHOT%20OF%20LOCATION.png
+![]SCREENSHOT%20OF%20LOCATION.png
