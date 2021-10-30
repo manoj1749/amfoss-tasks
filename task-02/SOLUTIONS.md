@@ -1,6 +1,5 @@
 # Begin your journey with Linux and Git
 > ### The Commands In Terminal I used For This Task
-> 
 >
 >> - I had used "***cd***" command to move between directories     and "***mkdir <directory-name>***" to create new directories.
 >> - With the help of "***cat <file-name.txt>***" I was able to open text files.
