@@ -1,5 +1,4 @@
 # Begin your journey with Linux and Git
-
 > ### The Commands In Terminal I used For This Task
 >
 >> - I had used "***cd***" command to move between directories     and "***mkdir <directory-name>***" to create new directories.
