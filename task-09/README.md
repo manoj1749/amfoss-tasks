@@ -5,5 +5,5 @@ As there is some problem with jekyll on my macbook I had used github pages for h
 And I had also published [my first blog](https://darkhunter1749.github.io/2021/11/01/my-experiences-doing-amfoss-tasks/) regarding my experiences doing the amfoss tasks.<br>
 I had embedded the link to my website and mt blog above and for safe-side I will again mention the links below.
 ## Links
-- [WEBSITE](https://darkhunter1749.github.io/)
-- [BLOG](https://darkhunter1749.github.io/2021/11/01/my-experiences-doing-amfoss-tasks/)
+🔗 [WEBSITE](https://darkhunter1749.github.io/) <br>
+🔗 [BLOG](https://darkhunter1749.github.io/2021/11/01/my-experiences-doing-amfoss-tasks/)
