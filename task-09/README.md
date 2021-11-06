@@ -1,4 +1,4 @@
-## 9. Setup a Simple Personal Website
+# Setup a Simple Personal Website
 
 I had followed the github repository mentioned in document for doing the tasks<br>
 As there is some problem with jekyll on my macbook I had used github pages for hosting my [personal-website](https://darkhunter1749.github.io/)
