@@ -5,3 +5,7 @@ But there comes the intresting part, In all the past cases I had used code-block
 Though I managed to complete the task by referring some articles in google and knowing how these components work and how we should code to make them work by sharing inputs between them.
 
 ## The Circuit I Made
+![](amfoss-task-13.png)
+
+## Link of The Circuit I made
+[🔗Link](https://www.tinkercad.com/things/ajuPZATnFCN-circuit-design/editel?sharecode=HyRCJ1XCifo7t3SNbk-MUf6xUd1Gi6ltcAlzErRgZlE)
