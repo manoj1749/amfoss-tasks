@@ -3,3 +3,9 @@ This task was an intresting one and I had explored the how websites are built an
 
 # The screenshot of page-1
 ![](amfoss-task-08-page-01.png)
+
+# The screenshot of page-2
+![](amfoss-task-08-page-02.png)
+
+# The screenshot of page-3
+![](amfoss-task-08-page-03.png)
