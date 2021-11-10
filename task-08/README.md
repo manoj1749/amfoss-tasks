@@ -13,5 +13,5 @@ This task was an intresting one and I had explored the how websites are built an
 # Walkthrough the pages after I had fixed the bugs and done everything required
 
 
-https://user-images.githubusercontent.com/83648898/141091733-f95f07e8-7a7b-47f9-9fde-665e7c9c9d63.mp4
+https://user-images.githubusercontent.com/83648898/141092071-6f3c53ca-0af6-4523-ab72-782b8a2637fc.mov
 
