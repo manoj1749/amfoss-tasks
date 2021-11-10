@@ -1,0 +1,57 @@
+<html>
+    <head>
+        <title>Crust</title>
+    <link rel = "icon" href="../page-1/images/salami-pizza.png" type="image/x-icon" />
+    </head>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+<body>
+
+<canvas id="myChart" style="width:100%"></canvas>
+
+<script>
+const ctx = document.getElementById('myChart').getContext('2d');
+const myChart = new Chart(ctx, {
+    type: 'bar',
+    data: {
+        labels: ['Pepperoni','Farmhouse','VeggieParadise','PeppyPanner','VEGGIEPARADISE'],
+        datasets: [{
+            label: 'Sales Of Pizza',
+            data: [Math.floor(Math.random() * (100 - 20 + 1)) + 20,
+                   Math.floor(Math.random() * (80 - 1 + 1)) + 1,
+                   Math.floor(Math.random() * (90 - 20 + 1)) + 20,
+                   Math.floor(Math.random() * (50 - 40 + 1)) + 40,
+                   Math.floor(Math.random() * (85 - 20 + 1)) + 20
+            ],
+            backgroundColor: [
+                'rgba(255, 99, 132, 0.2)',
+                'rgba(54, 162, 235, 0.2)',
+                'rgba(255, 206, 86, 0.2)',
+                'rgba(75, 192, 192, 0.2)',
+                'rgba(153, 102, 255, 0.2)',
+                'rgba(255, 159, 64, 0.2)'
+            ],
+            borderColor: [
+                'rgba(255, 99, 132, 1)',
+                'rgba(54, 162, 235, 1)',
+                'rgba(255, 206, 86, 1)',
+                'rgba(75, 192, 192, 1)',
+                'rgba(153, 102, 255, 1)',
+                'rgba(255, 159, 64, 1)'
+            ],
+            borderWidth: 1
+        }]
+    },
+    options: {
+        scales: {
+            y: {
+                beginAtZero: true
+            }
+        }
+    }
+});
+//Chart Js Implementation or you can use any other library also [https://www.npmjs.com/search?q=HTML5%20charts]
+</script>
+<!--Visualise the chart based on the data from data.js-->
+<center><h3>  </h3></center>
+</body>
+</html>
