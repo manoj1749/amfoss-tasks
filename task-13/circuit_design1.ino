@@ -27,12 +27,12 @@ void loop()
 { // getting input from parking slot
   distance = 0.01723 * readUltrasonicDistance(7, 7);
   // checking parking slot
-  if (distance >= 200) {
+  if (distance <= 300) {
             lcd.setCursor(0, 1);
     // Printing a message on the LCD.
              lcd.print("Filled Up ");
 }
-  if (distance < 200) {
+  if (distance > 300) {
             lcd.setCursor(0, 1);
     // Printing a message on the LCD.
             lcd.print("Is Empty");
