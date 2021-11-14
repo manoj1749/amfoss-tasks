@@ -9,7 +9,7 @@ This Repository Is For Task Submission For Recruitment Of amfoss-club
 --|[Introspection](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/Introspection)|Done✅|
 Task-00|[Install Ubuntu 20.04 [Desktop]](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-00)|Done✅|
 Task-01|[Star all the amFOSS repositories](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-01)|Done✅|
-Task-02|[Begin your journey with Linux and Git](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-02)|Begin your journey with Linux and Git|Done✅|
+Task-02|[Begin your journey with Linux and Git](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-02)|Done✅|
 Task-03|[Programming](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-03)|Doing👀(2/10 Completed)|
 Task-04|[Aerglo Mars](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-04)| |
 Task-05|[Let me C](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-05)| |
