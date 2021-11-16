@@ -22,7 +22,7 @@ Task-11|[Poster Design](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark
 Task-12|[Make the Block](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-12)| | 
 Task-13|[Circuit Design (for Hardware freaks)](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-13)|Done✅|
 Task-14|[Bandit](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-14)|Done✅|
-Task-15|[Project Euler (for math geeks)](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-15)|Doing👀(3/5 Completed)|
+Task-15|[Project Euler (for math geeks)](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-15)|Doing👀(4/5 Completed)|
 ## My views about the tasks
 
 ## My Introduction
