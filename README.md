@@ -11,7 +11,7 @@ Task-00|[Install Ubuntu 20.04 [Desktop]](https://github.com/DarkHunter1749/amfos
 Task-01|[Star all the amFOSS repositories](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-01)|Done✅|
 Task-02|[Begin your journey with Linux and Git](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-02)|Done✅|
 Task-03|[Programming](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-03)|Doing👀(2/10 Completed)|
-Task-04|[Aerglo Mars](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-04)| |
+Task-04|[Aerglo Mars](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-04)|🥲Written a code which stores the data in a json file need to filter it using id|
 Task-05|[Let me C](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-05)| |
 Task-06|[Flutter based UI task](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-06)| |
 Task-07|[Rich Scraper](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-07)|🥲I had wriitened the code but it was creating an empty csv file|
