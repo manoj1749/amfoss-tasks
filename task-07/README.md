@@ -7,4 +7,6 @@
 - But when I am running the code it was not scraping any data from the article and was just producing an empty csv file🥲.
 - I am uploading the folder of the code, which I had written. 
 - I'll be greatful for knowing about the error I made through which I can learn a new lessons.
-- But, after learning some more things about the golang and colly package I will try if anything went wrong in the script.
+- But, after learning some more things about the golang and colly package I will try if anything went wrong in the script.<br>
+
+### 🔗 [The link to the article I referred to](https://www.scrapingbee.com/blog/web-scraping-go/)
