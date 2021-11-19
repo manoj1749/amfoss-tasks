@@ -3,3 +3,4 @@ I had used ***Canva*** for this task. As I was familiar with ***Canva*** this ta
 
 
 # The poster I made was:
+![](AMFOSS%20TASK%2011.png)
