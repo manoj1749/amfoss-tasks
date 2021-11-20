@@ -22,7 +22,7 @@ Task-08|[JSExplorer](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/ta
 Task-09|[Setup a Simple Personal Website](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-09)|Done✅|
 Task-10|[CS50](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-10)|❌Not Completed|
 Task-11|[Poster Design](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-11)|Done✅|
-Task-12|[Make the Block](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-12)|❌Didn't Attempt| 
+Task-12|[Make the Block](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-12)|❌Not Completed<br>👀Just read the article provided| 
 Task-13|[Circuit Design (for Hardware freaks)](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-13)|Done✅|
 Task-14|[Bandit](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-14)|Done✅|
 Task-15|[Project Euler (for math geeks)](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-15)|❌Not Completed<br>👀Only 4/5 Done|
