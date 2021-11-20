@@ -10,3 +10,9 @@ I had uploaded the screenshot of my [circuit](amfoss-task-13.png) along with the
 
 ## Link of The Circuit I made
 [🔗Link](https://www.tinkercad.com/things/ajuPZATnFCN-circuit-design/editel?sharecode=HyRCJ1XCifo7t3SNbk-MUf6xUd1Gi6ltcAlzErRgZlE)
+
+## Simulation Of The Circuit
+
+
+https://user-images.githubusercontent.com/83648898/142734639-7d7cf75b-108d-4210-88b0-7f6cfe54742d.mov
+
