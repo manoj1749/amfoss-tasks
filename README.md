@@ -12,7 +12,7 @@ Task-01|[Star all the amFOSS repositories](https://github.com/DarkHunter1749/amf
 Task-02|[Begin your journey with Linux and Git](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-02)|Done✅|
 Task-03|[Programming](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-03)|Doing👀(2/10 Completed)|
 Task-04|[Aerglo Mars](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-04)|❌Not Completed<br>🥲Written a code which stores the data in a json file need to filter it using id|
-Task-05|[Let me C](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-05)| |
+Task-05|[Let me C](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-05)|Done✅|
 Task-06|[Flutter based UI task](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-06)|❌Not Completed<br>🥲Got certain errors while doing the task need to rectify it|
 Task-07|[Rich Scraper](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-07)|❌Not Completed<br>🥲I had wriitened the code but it was creating an empty csv file|
 Task-08|[JSExplorer](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-08)|Done✅|
