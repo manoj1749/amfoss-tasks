@@ -24,5 +24,13 @@ Task-13|[Circuit Design (for Hardware freaks)](https://github.com/DarkHunter1749
 Task-14|[Bandit](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-14)|Done✅|
 Task-15|[Project Euler (for math geeks)](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-15)|Doing👀(4/5 Completed)|
 ## My views about the tasks
+- As I had done the tasks on my own by referring some articles and youtubes other than the given resources, I can say that these tasks aren't that easy but some tasks also aren't that hard to do.
+- But I can say that I had learnt plenty of things and though I hadn't completed many of the tasks, I am looking forward to complete those remaining tasks in coming days through which I can improve my skills for making my future-self to do some wonderful-things.
+- And I can say that these tasks were wonderful set of tasks beginners like me, Through which we can learn many things.
 
 ## My Introduction
+- Myself, Manoj and I'm from Andhra Pradesh. I had completed my 11th and 12th in Vijayawada in MPC stream.
+- To be honest I am pretty noob in coding and programming kinda stuff but I had some mere knowledge about how these computers work and all.
+- During my 12th I had go to know about github, open-source contributions, hackathons and all, I don't why I was fascinated to those things and I got some keen intrest towards them, Which made me create my github account on May 4th,2021 but due to my lack of knwowledge regarding github I wasn't able to do anything in github those days
+- I wanted to learn about it but due to my hectic schedule of classes during my 12th I wasn't able to learn anything.
+- But I had gotten across an thread regarding amfoss club in quora through which I got to believe that it will be the perfect club to learn what I needed and do the things which fascinated me😇.
