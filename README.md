@@ -17,7 +17,7 @@ Task-06|[Flutter based UI task](https://github.com/DarkHunter1749/amfoss-tasks/t
 Task-07|[Rich Scraper](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-07)|❌Not Completed<br>🥲I had wriitened the code but it was creating an empty csv file|
 Task-08|[JSExplorer](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-08)|Done✅|
 Task-09|[Setup a Simple Personal Website](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-09)|Done✅|
-Task-10|[CS50](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-10)|Doing👀|
+Task-10|[CS50](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-10)|❌Not Completed|
 Task-11|[Poster Design](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-11)|Done✅|
 Task-12|[Make the Block](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-12)|❌Didn't Attempt| 
 Task-13|[Circuit Design (for Hardware freaks)](https://github.com/DarkHunter1749/amfoss-tasks/tree/dark/task-13)|Done✅|
