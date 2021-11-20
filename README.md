@@ -1,6 +1,9 @@
 # amfoss-tasks
 This Repository Is For Task Submission For Recruitment Of amfoss-club
 
+- I had also made a website for this repository. I'll link it here
+- 🔗[amfoss-tasks](https://manoj1749.github.io/amfoss-tasks/)
+
 # About Me
 **Hey!!!, Myself Manoj From Eluru,Andhra Pradesh. Currently I'm An ECE Under-grad at Amrita,Amritapuri**
 # Table of Status the tasks 
