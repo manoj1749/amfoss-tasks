@@ -34,3 +34,5 @@ Task-15|[Project Euler (for math geeks)](https://github.com/DarkHunter1749/amfos
 - During my 12th I had go to know about github, open-source contributions, hackathons and all, I don't why I was fascinated to those things and I got some keen intrest towards them, Which made me create my github account on May 4th,2021 but due to my lack of knwowledge regarding github I wasn't able to do anything in github those days.
 - I wanted to learn about it but due to my hectic schedule of classes during my 12th I wasn't able to learn anything.
 - But I had gotten across an thread regarding amfoss club in quora through which I got to believe that it will be the perfect club to learn what I needed and do the things which fascinated me😇.
+- I had also made my first PR through the workshop conducted by amFOSS club during hactoberfest and got a T-shirt👕.
+- And I also participated in the HactoberFest and made 4 PRs with the help of basics I had learnt throught the workshop conducted bt amFOSS and completed which had gone through observation period and matured🥳.
