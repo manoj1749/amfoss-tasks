@@ -35,4 +35,4 @@ Task-15|[Project Euler (for math geeks)](https://github.com/DarkHunter1749/amfos
 - I wanted to learn about it but due to my hectic schedule of classes during my 12th I wasn't able to learn anything.
 - But I had gotten across an thread regarding amfoss club in quora through which I got to believe that it will be the perfect club to learn what I needed and do the things which fascinated me😇.
 - I had also made my first PR through the workshop conducted by amFOSS club during hactoberfest and got a T-shirt👕.
-- And I also participated in the HactoberFest and made 4 PRs with the help of basics I had learnt throught the workshop conducted bt amFOSS and completed which had gone through observation period and matured🥳.
+- And I also participated and completed my first HactoberFest by making 4 PRs with the help of basics I had learnt throught the workshop conducted bt amFOSS and completed which had gone through observation period and matured🥳.
